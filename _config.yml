@@ -1,10 +1,12 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: 程子的时光漫步
+locale: zh_CN
+description: >
+  生命的际遇便在于此吧，你走看过的风景、遇见过的人、读过的书、
+  感受过的风都被留在你漫步的时光里，这里的记录给恰好生命共振到同一波点的你。
 logo: site-logo.png
-search: true
+search: false
 url: http://localhost:4000
 
 # Jekyll configuration
@@ -31,10 +33,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: 秦程
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
+  email: qincheng0916@163.com
+  disqus-shortname: qincheng
   twitter: #username
   facebook: #username
   github: #username

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tag Index
-excerpt: "An archive of posts sorted by tag."
+title: 标签列表
+excerpt: "标签列表"
 search_omit: true
 ---
 
